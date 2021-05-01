@@ -1,0 +1,6 @@
+setting:
+  zone: 8 #时区校准
+  search_time_limit: 3 #默认最大查询时间范围3天
+  search_time_limit_num: 5 #默认查询条数5条
+  user: 'thefine' #用户名
+  repo: 'daodao'  #用户仓库
